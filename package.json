@@ -1,5 +1,5 @@
 {
-  "name": "devcontainer-nodejs-22",
+  "name": "devcontainer-nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/h3xsh/devcontainer-nodejs-22.git"
+    "url": "git+ssh://git@github.com/h3xsh/devcontainer-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/h3xsh/devcontainer-nodejs-22/issues"
+    "url": "https://github.com/h3xsh/devcontainer-nodejs/issues"
   },
-  "homepage": "https://github.com/h3xsh/devcontainer-nodejs-22#readme",
+  "homepage": "https://github.com/h3xsh/devcontainer-nodejs#readme",
   "description": "",
   "dependencies": {
     "@fastify/view": "^10.0.2",
