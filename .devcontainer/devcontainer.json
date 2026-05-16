@@ -1,9 +1,9 @@
 
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 {
-	"name": "h3xsh-devcontainer-nodejs-22",
+	"name": "h3xsh-devcontainer-nodejs-24",
 	// "remoteUser": "dev",
-	"image": "h3xsh/image:nodejs-22",
+	"image": "h3xsh/image:nodejs-24",
 
 
 	// Configure tool-specific properties.
